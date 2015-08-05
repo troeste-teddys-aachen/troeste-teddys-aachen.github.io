@@ -1,5 +1,5 @@
 name: Teddys für Kinder in Not Aachen e.V.
 safe: true
 encoding: utf-8
-baseurl: tammoippen
+baseurl: troeste_teddies
 markdown: kramdown

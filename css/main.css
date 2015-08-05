@@ -73,7 +73,7 @@ h2:first-child {
 
 #content-area {
     height: 481px;
-    background: url({{ site.url }}/img/hintergrund_unten.gif);
+    background: url({{ site.baseurl }}/img/hintergrund_unten.gif);
 }
 
 #pages {
