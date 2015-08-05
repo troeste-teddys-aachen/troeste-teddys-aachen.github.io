@@ -101,3 +101,8 @@ h2:first-child {
     font-size: 12pt;
     text-align: left;
 }
+
+.img-width {
+    text-align: center;
+    width: 430px;
+}
