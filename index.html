@@ -1,0 +1,13 @@
+---
+layout: default
+title: „Teddys für Kinder in Not Aachen e.V.“
+---
+
+    {% for post in site.posts %}
+      <h2>
+        {{ post.title }}
+      </h2>
+      <div class="entry">
+           {{ post.content }}
+      </div>
+    {% endfor %}
