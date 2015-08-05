@@ -1,0 +1,15 @@
+<!-- insert like {% include pages.html page_nr=2 page_count=3 %} after <div id="content-area">  -->
+<!-- {{ include.page_nr }} {{ include.page_count }} -->
+    <div id="pages">
+      {% for p in (1..10) %}
+          {% if include.page_nr == p %}
+            <img width="22" src="{{ site.baseurl }}/img/seite-{{ p }}-r.gif" />
+          {% elsif include.page_count >= p %}
+            <!-- TODO: correct href -->
+            <a class="pageLink" href="{{ site.baseurl }}/{{ post.name }} {{ p }} ?>">
+              <img width="22" src="{{ site.baseurl }}/img/seite-{{ p }}-n.gif" />
+            </a>
+          {% else %}
+          {% endif %}
+      {% endfor %}
+    </div>
