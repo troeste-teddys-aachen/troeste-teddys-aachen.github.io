@@ -37,7 +37,7 @@ h3 {
     margin-top: 35px
 }
 
-blockquote {
+blockquote * {
     font-size: 90%;
 }
 
