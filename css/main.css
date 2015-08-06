@@ -37,6 +37,10 @@ h3 {
     margin-top: 35px
 }
 
+blockquote {
+    font-size: 90%;
+}
+
 #middle {
     /*display: inline-block;*/
     width: 800px;
