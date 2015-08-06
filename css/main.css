@@ -110,3 +110,7 @@ h3 {
     text-align: center;
     width: 430px;
 }
+
+.italic {
+    font-style: italic;
+}
