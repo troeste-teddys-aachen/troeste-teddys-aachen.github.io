@@ -1,0 +1,35 @@
+---
+layout: default
+title: Neuer Gästebuch Eintrag
+---
+
+<h2>Gästebucheintrag schreiben</h3>
+
+<form method="post" id="commentform">
+    
+    <p>
+       <input type="text" name="author" id="author" value="" size="22" tabindex="1"/>
+       <label for="author">Name</label>
+    </p>
+    
+    <p>
+       <input type="text" name="email" id="email" value="" size="22" tabindex="2" />
+       <label for="email">Email <small>(wird nicht veröffentlicht)</small></label>
+    </p>
+    
+    <p>
+       <input type="text" name="url" id="url" value="" size="22" tabindex="3" />
+       <label for="url">Webseite</label>
+    </p>
+    
+    <p>
+       Eintrag<br\>
+       <textarea name="comment" id="comment" style="width: 95%;" rows="4" tabindex="4"></textarea>
+    </p>
+    
+    <p>
+       <input type="button" tabindex="5" value="Eintrag abschicken" onclick="send_entry()" />
+       <input type="button" value="Abbrechen" id="abbrechenbtn" tabindex="6"
+            onclick="window.open('/gaeste/', '_self')" />
+    </p>
+</form>

@@ -2,7 +2,17 @@
 layout: default
 title: Gästebuch
 ---
-    <h1>Gästebuch</h1>
+    <table width="450">
+      <tr>
+        <td>
+          <h1>Gästebuch</h1>
+        </td>
+        <td style="text-align: right; vertical-align:bottom;">
+          <a href="/gaeste/neuer_eintrag">Eigenen Eintrag hinzufügen...</a>
+        </td>
+      </tr>
+    </table>
+    
     <hr/>
     {% for post in site.posts %}
       {% if post.category == 'gast' %}
@@ -39,3 +49,6 @@ title: Gästebuch
          </div>
       {% endif %}
     {% endfor %}
+    <p style="text-align: right;">
+      <a href="/gaeste/neuer_eintrag">Eigenen Eintrag hinzufügen...</a>
+    </p>
