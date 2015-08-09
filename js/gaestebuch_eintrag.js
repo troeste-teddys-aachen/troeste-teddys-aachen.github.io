@@ -1,9 +1,18 @@
-function send_entry (url) {
-  var author = document.getElementById("author").value;
-  var email = document.getElementById("email").value;
-  var url = document.getElementById("url").value;
-  var comment = document.getElementById("comment").value;
+function send_entry () {
+  var author = $("#author").val();
+  var email = $("#email").val();
+  var url = $("#url").val();
+  var comment = $("#comment").val();
   var time = new Date();
 
-  window.alert(author + " " + email + " " + url + " " + comment + " " + time.toISOString())
+  var body = "{'title' : 'New Comment', 'body': "+"'---\nlayout: post\ntitle:\ndate: "+time.toISOString()+"\nauthor: "+author+"\ncategory: gast\n---\n\n"+comment+"\nURL: "+url+"\nEmail: "+email+"'\n}";
+
+  window.alert(body)
+  $.post(
+    "https://api.github.com/repos/tammoippen/troeste_teddies/issues",
+    body,
+    function(data) {
+      alert("Response: " + data);
+    }
+    )
 }
