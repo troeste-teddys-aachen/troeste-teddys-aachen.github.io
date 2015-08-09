@@ -6,4 +6,4 @@ author: Paul & Eltern
 category: gast
 ---
 
-Der Teddy hat unseren Sohn (9 Monate) und mich im Krankenwagen etwas abgelenkt :-)  Vielen Dank dafür!
+Der Teddy hat unseren Sohn (9 Monate) und mich im Krankenwagen etwas abgelenkt :smile:  Vielen Dank dafür!
