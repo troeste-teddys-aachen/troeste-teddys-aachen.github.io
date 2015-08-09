@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tröste-Teddys auf neuem „Öcher Stadtmobil“
+category: aktuell
 ---
 
 Ein großes Herz für kleine Tröste-Teddys bewies Uwe Poster von der Agentur für Sozialsponsoring Socius Fortis, der der Stadt Aachen am 14. Juni 2011 ein neues — mit einem Werbebanner des Teddy-Vereins ausgestattetes — „Öcher Stadtmobil“ übergab.

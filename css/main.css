@@ -23,9 +23,15 @@ a:hover {
     text-decoration: none;
 }
 
+h1 {
+    font-weight: bold;
+    font-size: 175%;
+}
+
 h2 {
     font-weight: bold;
     font-style: italic;
+    font-size: 125%;
 }
 
 h2:first-child {
@@ -37,8 +43,16 @@ h3 {
     margin-top: 35px
 }
 
-blockquote * {
-    font-size: 90%!important;
+blockquote {
+    font-size: 90%;
+} 
+
+hr {
+    color: #D27A42;
+    background-color: #D27A42;
+    border: 0;
+    width: 80%;
+    height: 2px;
 }
 
 #middle {
@@ -102,13 +116,16 @@ blockquote * {
     height: 420px;
     overflow: auto;
     /*border:1px solid grey;*/
-}
-
-#main * {
     font-family: "Arial Narrow","Helvetica Narrow",Tahoma,Arial,Helvetica,sans-serif;;
     font-size: 12pt;
     text-align: left;
 }
+
+/*#main * {
+    font-family: "Arial Narrow","Helvetica Narrow",Tahoma,Arial,Helvetica,sans-serif;;
+    font-size: 12pt;
+    text-align: left;
+}*/
 
 .img-width {
     text-align: center;

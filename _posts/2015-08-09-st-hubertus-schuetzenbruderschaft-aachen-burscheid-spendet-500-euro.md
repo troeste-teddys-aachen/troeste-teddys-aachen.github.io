@@ -1,6 +1,7 @@
 ---
 layout: post
 title: St. Hubertus-Schützenbruderschaft Aachen-Burtscheid spendet 500 Euro
+category: aktuell
 ---
 
 Ein großes Herz für Kinder in Not bewies auch die St. Hubertus-Schützenbruderschaft Aachen-Burtscheid 1949 e.V. Im Rahmen einer amerikanischen Versteigerung von drei unserer Tröste-Teddys wurde die Summe von 206 Euro erzielt.

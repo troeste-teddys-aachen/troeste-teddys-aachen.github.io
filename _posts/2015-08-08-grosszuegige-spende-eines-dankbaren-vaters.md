@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Großzügige Spende eines dankbaren Vaters
+category: aktuell
 ---
 
 Am 3. Dezember 2012 erreichte uns folgende E-Mail:

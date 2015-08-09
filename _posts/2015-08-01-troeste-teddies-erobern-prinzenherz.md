@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tröste-Teddys erobern Prinzenherz
+category: aktuell
 ---
 Karnevalist mit Leib und Seele ... und einem großen Herzen für Kinder in Not: Der designierte Brander Bürgerprinz, Ralf Bongartz, wird in der kommenden Session „Teddys für Kinder in Not Aachen e.V.“ unterstützen.
 

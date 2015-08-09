@@ -1,0 +1,41 @@
+---
+layout: default
+title: Gästebuch
+---
+    <h1>Gästebuch</h1>
+    <hr/>
+    {% for post in site.posts %}
+      {% if post.category == 'gast' %}
+        <h2>
+          {{ post.title }}
+        </h2>
+        <div class="entry">
+          {{ post.content }}
+        </div>
+        <div id="meta">
+            <p style="font-size:10pt">
+              Eintrag von {{ post.author }} am
+              {% assign m = post.date | date: "%-m" %}
+              {{ post.date | date: "%-d" }}.
+              {% case m %}
+                {% when '1' %}Januar
+                {% when '2' %}Februar
+                {% when '3' %}März
+                {% when '4' %}April
+                {% when '5' %}Mai
+                {% when '6' %}Juni
+                {% when '7' %}Juli
+                {% when '8' %}August
+                {% when '9' %}September
+                {% when '10' %}Oktober
+                {% when '11' %}November
+                {% when '12' %}Dezember
+              {% endcase %}
+              {{ post.date | date: "%Y" }}
+            </p>
+            <p>
+              <hr/>
+            </p>
+         </div>
+      {% endif %}
+    {% endfor %}
