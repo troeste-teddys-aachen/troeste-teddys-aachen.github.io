@@ -5,5 +5,6 @@ baseurl: "/troeste_teddies"
 markdown: kramdown
 permalink: /:title/
 timezone: DE
-gems:
+gems: 
+  - github-pages
   - jemoji
