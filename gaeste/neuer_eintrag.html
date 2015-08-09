@@ -5,15 +5,15 @@ title: Neuer Gästebuch Eintrag
 
 <h2>Gästebucheintrag schreiben</h3>
 
-<form method="post" id="commentform">
+<form action="//formspree.io/tammo.ippen@posteo.de" method="POST">
     
     <p>
-       <input type="text" name="author" id="author" value="" size="22" tabindex="1"/>
+       <input type="text" name="name" id="author" value="" size="22" tabindex="1"/>
        <label for="author">Name</label>
     </p>
     
     <p>
-       <input type="text" name="email" id="email" value="" size="22" tabindex="2" />
+       <input type="email" name="_replayto" id="email" value="" size="22" tabindex="2" />
        <label for="email">Email <small>(wird nicht veröffentlicht)</small></label>
     </p>
     
@@ -28,7 +28,10 @@ title: Neuer Gästebuch Eintrag
     </p>
     
     <p>
-       <input type="button" tabindex="5" value="Eintrag abschicken" onclick="send_entry()" />
+      <input type="hidden" name="_next" value='{{ site.baseurl }}/gaeste/' />
+      <input type="hidden" name="_subject" value="[Teddy]" />
+      <input type="text" name="_gotcha" style="display:none" />
+       <input type="submit" tabindex="5" value="Eintrag abschicken" />
        <input type="button" value="Abbrechen" id="abbrechenbtn" tabindex="6"
             onclick="window.open('{{ site.baseurl }}/gaeste/', '_self')" />
     </p>
