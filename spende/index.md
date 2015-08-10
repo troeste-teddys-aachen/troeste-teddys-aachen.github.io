@@ -12,6 +12,8 @@ Jede Spende trägt dazu bei, einem verletzten, erkrankten oder misshandelten Kin
 Spendenkonto 922110018<br/>
 Aachener Bank<br/>
 BLZ 390 601 80<br/>
+IBAN DE34390601800922110018<br/>
+BIC GENODED1AAC<br/>
 <br/>
 
 Wir garantieren Ihnen, dass Ihre Spende ohne Abzug von Verwaltungskosten dem Ankauf von „Teddybären für Kinder in Not Aachen e.V.“ zukommt! 
