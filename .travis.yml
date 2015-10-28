@@ -28,9 +28,9 @@ addons:
 
 script:
   # build twice for emoji transfere
-  - jekyll build --destination _site --trace
-  - jekyll build --destination _site --trace
-  - jekyll doctor
+  - bundle exec jekyll build --destination _site --trace
+  - bundle exec jekyll build --destination _site --trace
+  - bundle exec jekyll doctor
   - "lftp -e 'glob -a rm -r *' -u $FTP_USER,$FTP_PASSWORD ftp.strato.de"
 
 after_success:

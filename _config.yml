@@ -5,6 +5,7 @@ markdown: kramdown
 permalink: /posts/:title/
 timezone: DE
 emoji_dir: img/emoji
+exclude: [Gemfile, Gemfile.lock, vendor]
 gems: 
   - github-pages
   - emoji
