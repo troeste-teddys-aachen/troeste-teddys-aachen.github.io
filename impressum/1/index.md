@@ -14,7 +14,7 @@ Hasenwaldstrasse 7<br/>
 52134 Herzogenrath<br/>
 
 E-Mail: [michael.siemons@t-online.de](mailto:michael.siemons@t-online.de)<br/>
-Internet: [troeste-teddys-aachen.de](troeste-teddys-aachen.de)<br/>
+Internet: [troeste-teddys-aachen.de](http://troeste-teddys-aachen.de)<br/>
 
 Vertretungsberechtigter Vorstand: Michael Siemons - 1. Vorsitzender (Anschrift wie oben)<br/>
 Registergericht: Amtsgericht Aachen<br/>

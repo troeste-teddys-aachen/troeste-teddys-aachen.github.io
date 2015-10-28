@@ -8,5 +8,5 @@ page_name: galerie
 
 ## Unser neuer Tröste-Teddy
 <p style="text-align: center">
-<img height="380px" src="{{ site.baseurl }}/assets/TeddyNeu.png" />
+  <img alt="Teddy neu" height="380px" src="{{ site.baseurl }}/assets/TeddyNeu.png" />
 </p>
