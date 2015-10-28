@@ -1,0 +1,16 @@
+env:
+  global:
+    - "FTP_USER=troeste-teddys-aachen.de"
+    - "FTP_PASSWORD=password"
+
+before_install:
+  - sudo apt-get update -qq
+  - sudo apt-get install -y ruby wput
+  - gem install github-pages
+
+script:
+  - jekyll _site
+
+after_success:
+  - cd _site
+  - wput ./* ftp://$FTP_USER:$FTP_PASSWORD@ftp.strato.de/
