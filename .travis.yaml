@@ -1,11 +1,19 @@
+language: ruby
+rvm:
+  - 1.9.3
+
 env:
   global:
     - "FTP_USER=troeste-teddys-aachen.de"
     - "FTP_PASSWORD=password"
 
-before_install:
+branches:
+  only:
+    - master
+
+install:
   - sudo apt-get update -qq
-  - sudo apt-get install -y ruby wput
+  - sudo apt-get install -y wput
   - gem install github-pages
 
 script:
