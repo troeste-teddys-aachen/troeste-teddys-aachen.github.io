@@ -31,7 +31,7 @@ script:
   - bundle exec jekyll build --destination _site --trace
   - bundle exec jekyll build --destination _site --trace
   - bundle exec jekyll doctor
-  - "lftp -e 'glob -a rm -r *' -u $FTP_USER,$FTP_PASSWORD ftp.strato.de"
+  #- "lftp -e 'glob -a rm -r *' -u $FTP_USER,$FTP_PASSWORD ftp.strato.de"
 
 after_success:
   - cd _site
