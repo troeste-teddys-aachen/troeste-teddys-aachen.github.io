@@ -1,8 +1,9 @@
 ---
 layout: sites
-page_nr: 4
-page_count: 4
 title: IMPRESSUM
+page_nr: 3
+page_count: 4
+page_name: impressum
 ---
 
 ### Gestaltung:
