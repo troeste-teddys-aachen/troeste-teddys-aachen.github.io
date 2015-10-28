@@ -17,12 +17,10 @@ install:
   - sudo apt-get install -y wput lftp
   - bundle install
 
-before_script: chmod +x ./_travis_scripts/empty_ftp.sh
-
 script:
   - jekyll build --destination _site --trace
   - jekyll doctor
-  - ./_travis_scripts/empty_ftp.sh $FTP_USER $FTP_PASSWORD
+  - "lftp -u $FTP_USER,$FTP_PASSWORD ftp.strato.de < ./_travis_scripts/empty_ftp.txt"
 
 after_success:
   - cd _site

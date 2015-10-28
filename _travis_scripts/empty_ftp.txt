@@ -1,0 +1,2 @@
+glob -a rm -r *
+quit
