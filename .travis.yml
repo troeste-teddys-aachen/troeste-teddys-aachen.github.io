@@ -22,4 +22,4 @@ script:
 
 after_success:
   - cd _site
-  - wput −−reupload −−dont−continue ./* ftp://$FTP_USER:$FTP_PASSWORD@ftp.strato.de/
+  - wput −−binary −−reupload −−dont−continue ./* ftp://$FTP_USER:$FTP_PASSWORD@ftp.strato.de/

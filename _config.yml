@@ -2,7 +2,7 @@ name: Teddys für Kinder in Not Aachen e.V.
 safe: true
 encoding: utf-8
 markdown: kramdown
-permalink: /:title/
+permalink: /posts/:title/
 timezone: DE
 gems: 
   - github-pages
