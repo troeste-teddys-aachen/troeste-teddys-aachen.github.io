@@ -3,6 +3,8 @@ cache: bundler
 rvm:
   - 2.2
 
+sudo: false
+
 env:
   global:
     - "FTP_USER=troeste-teddys-aachen.de"
@@ -17,16 +19,20 @@ branches:
   only:
     - master
 
-install:
-  - sudo apt-get update -qq
-  - sudo apt-get install -y wput lftp
-  - bundle install
+addons:
+  apt:
+    packages:
+      - lftp
+
+#install: bundle install
 
 script:
+  # build twice for emoji transfere
+  - jekyll build --destination _site --trace
   - jekyll build --destination _site --trace
   - jekyll doctor
-  - "lftp -u $FTP_USER,$FTP_PASSWORD ftp.strato.de < ./_travis_scripts/empty_ftp.txt"
+  - "lftp -e 'glob -a rm -r *' -u $FTP_USER,$FTP_PASSWORD ftp.strato.de"
 
 after_success:
   - cd _site
-  - wput −−binary −−reupload −−dont−continue ./* ftp://$FTP_USER:$FTP_PASSWORD@ftp.strato.de/
+  - "lftp -e 'mirror --reverse' -u $FTP_USER,$FTP_PASSWORD ftp.strato.de"
