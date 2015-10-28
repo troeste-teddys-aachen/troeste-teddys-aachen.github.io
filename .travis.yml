@@ -13,12 +13,13 @@ branches:
 
 install:
   - sudo apt-get update -qq
-  - sudo apt-get install -y wput
+  - sudo apt-get install -y wput lftp
   - gem install github-pages
 
 script:
   - jekyll build --destination _site --trace
   - jekyll doctor
+  - ./_travis_scripts/empty_ftp.sh
 
 after_success:
   - cd _site
