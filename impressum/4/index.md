@@ -1,5 +1,7 @@
 ---
 layout: sites
+page_nr: 4
+page_count: 4
 title: IMPRESSUM
 ---
 
