@@ -4,7 +4,7 @@ encoding: utf-8
 markdown: kramdown
 permalink: /posts/:title/
 timezone: DE
-emoji_dir: /img/emoji
+emoji_dir: img/emoji
 gems: 
   - github-pages
   - emoji

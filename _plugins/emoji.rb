@@ -33,7 +33,7 @@ module Jekyll
 
       content.to_str.gsub(/:([a-z0-9\+\-_]+):/) do |match|
         if Emoji.find_by_alias($1) and emoji_dir
-          '<img alt="' + $1 + '" src="' + emoji_dir + "/#{$1}.png" + '" class="emoji" />'
+          '<img alt="' + $1 + '" src="/' + emoji_dir + "/#{$1}.png" + '" class="emoji" />'
         else
           match
         end
@@ -50,7 +50,7 @@ module Jekyll
       emoji_dir = File.join(config['source'], config['emoji_dir'])
       return false if File.exist?(File.join(emoji_dir, 'smiley.png'))
 
-      puts "           Copying: Emoji from Gemoji to " + config['emoji_dir']
+      puts "           Copying: Emoji from Gemoji to " + emoji_dir + " " + config['emoji_dir']
 
       # Make Emoji directory
       FileUtils.mkdir_p(emoji_dir)

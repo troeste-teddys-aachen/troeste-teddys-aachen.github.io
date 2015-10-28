@@ -55,6 +55,11 @@ hr {
     height: 2px;
 }
 
+img.emoji {
+    height: 24px;
+    width: 24px;
+}
+
 #middle {
     /*display: inline-block;*/
     width: 800px;
