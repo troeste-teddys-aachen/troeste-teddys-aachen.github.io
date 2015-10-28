@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-lftp -u $FTP_USER,$FTP_PASSWORD ftp.strato.de <<EOF
+lftp -u $1,$2 <<EOF
 glob -a rm -r *
 quit
 EOF
