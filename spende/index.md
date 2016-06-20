@@ -12,7 +12,7 @@ Jede Spende trägt dazu bei, einem verletzten, erkrankten oder misshandelten Kin
 Spendenkonto 922110018<br/>
 Aachener Bank<br/>
 BLZ 390 601 80<br/>
-IBAN DE34390601800922110018<br/>
+IBAN DE 90 390 601 800 922 110 018<br/>
 BIC GENODED1AAC<br/>
 <br/>
 
