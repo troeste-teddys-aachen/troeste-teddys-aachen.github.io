@@ -7,7 +7,7 @@
         <title>» {{ page.title }} — „Teddys für Kinder in Not Aachen e.V.“</title>
 
         <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" type="text/css" media="screen" />
-        
+
         <meta http-equiv="Content-Script-Type" content="text/javascript">
         <meta http-equiv="Content-Style-Type" content="text/css">
         <meta http-equiv="content-language" content="de">
@@ -15,9 +15,9 @@
         <meta name="author" content="Tammo Ippen" />
         <meta name="description" content="„Teddys für Kinder in Not Aachen e.V.“ verfolgt das Ziel, verletzten, misshandelten oder traumatisierten Kindern mittels eines Teddybären ein Stück Liebe und Geborgenheit zu schenken." />
         <meta name="keywords" content="Teddys, trösten, Aachen, Not, Kinder" />
-        
+
         <link rel="icon" href="http://troeste-teddys-aachen.de/img/favicon.ico" type="image/x-icon">
-        
+
         <!-- zum Testen  >
         <meta http-equiv="cache-control" content="no-cache">
         <meta http-equiv="pragma" content="no-cache"-->
@@ -25,7 +25,10 @@
         {% if page.url == "/404.html" %}
             <meta http-equiv="refresh" content="5; url={{ site.baseurl }}/">
         {% endif %}
-        
+
+        {% if jekyll.environment == 'production' %}
+          {% include analytics.html %}
+        {% endif %}
     </head>
 
     <body>
@@ -33,4 +36,3 @@
           <div id="sidebar">
             {% include sidebar.html %}
           </div>
-
