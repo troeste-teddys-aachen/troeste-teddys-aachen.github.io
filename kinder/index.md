@@ -4,6 +4,10 @@ title: Kinder
 page_nr: 1
 page_count: 3
 page_name: kinder
+sitemap:
+    priority: 0.5
+    changefreq: 'monthly'
+    lastmod: 2016-06-21T06:00:00-00:00
 ---
 
 ## Teddys im Einsatz
@@ -16,4 +20,3 @@ So wie der vierjährigen Sophie, die im September 2001 mit einer akuten Blinddar
 
 
 Der Verein „Teddys für Kinder in Not Aachen e.V.“ stellt seit 1994 den verschiedenen Aachener Rettungsdiensten kostenlos Teddybären zur Verfügung, damit Rettungssanitäter und Notärzte diese Teddys als „Tröstebären“ für verletzte, kranke oder misshandelte Kinder einsetzen können.
-

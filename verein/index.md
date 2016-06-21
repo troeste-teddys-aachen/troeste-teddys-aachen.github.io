@@ -4,6 +4,10 @@ title: Verein
 page_nr: 1
 page_count: 2
 page_name: verein
+sitemap:
+    priority: 0.5
+    changefreq: 'monthly'
+    lastmod: 2016-06-21T06:00:00-00:00
 ---
 
 ## Geschichte

@@ -4,6 +4,10 @@ title: IMPRESSUM
 page_nr: 1
 page_count: 4
 page_name: impressum
+sitemap:
+    priority: 0.5
+    changefreq: 'yearly'
+    lastmod: 2016-06-21T06:00:00-00:00
 ---
 
 ## IMPRESSUM

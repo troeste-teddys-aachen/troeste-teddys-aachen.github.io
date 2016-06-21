@@ -4,6 +4,10 @@ title: Galerie
 page_nr: 1
 page_count: 2
 page_name: galerie
+sitemap:
+    priority: 0.5
+    changefreq: 'yearly'
+    lastmod: 2016-06-21T06:00:00-00:00
 ---
 
 ## Unser neuer Tröste-Teddy

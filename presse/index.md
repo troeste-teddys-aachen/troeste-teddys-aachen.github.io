@@ -4,6 +4,10 @@ title: Presse
 page_nr: 1
 page_count: 1
 page_name: presse
+sitemap:
+    priority: 0.5
+    changefreq: 'monthly'
+    lastmod: 2016-06-21T06:00:00-00:00
 ---
 
 [*Karneval in Aachen 30.12.2015: Unterstützung für „Teddys für Kinder in Not Aachen e.V.“*](http://www.karnevalinaachen.de/aktuelles/news/2015/bettenhausen_teddys.htm){:target="_blank"}
