@@ -45,7 +45,7 @@ h3 {
 
 blockquote {
     font-size: 90%;
-} 
+}
 
 hr {
     color: #D27A42;
@@ -63,7 +63,7 @@ img.emoji {
 #middle {
     /*display: inline-block;*/
     width: 800px;
-    position:absolute; 
+    position:absolute;
     top:0px;
     left: 50%;
     margin-left: -400px;
@@ -77,7 +77,6 @@ img.emoji {
 }
 
 #nav {
-    
     display: inline;
     list-style: none;
     list-style-type: none;
