@@ -1,7 +1,6 @@
 _site
 .DS_Store
 img/emoji/
-Gemfile.lock
 .sass-cache/
 .bundle/
 _vendor/
