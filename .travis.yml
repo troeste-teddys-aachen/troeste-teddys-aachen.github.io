@@ -29,6 +29,7 @@ addons:
 
 script:
   # build twice for emoji transfere
+  - bundle exec gemoji extract img/emoji
   - bundle exec jekyll build --destination _site --trace
   - bundle exec jekyll build --destination _site --trace
   - bundle exec jekyll doctor
