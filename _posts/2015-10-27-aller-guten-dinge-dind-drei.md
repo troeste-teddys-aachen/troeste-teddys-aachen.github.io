@@ -12,4 +12,4 @@ Und auch in der kommenden Session werden unsere kleinen Tröste-Teddys wieder op
 
 Lieber Ralf, lieber Hofstaat: Für Euer tolles Engagement und Euer großes Herz für verletzte, akut erkrankte oder misshandelte Kinder sagen wir schon jetzt Vöölmoels merssi und wünschen Euch für die Vorbereitungszeit alles Gute, viel Erfolg ... und vor allem viel Spaß!
 
-[![Ralf Held]({{ site.baseurl }}/assets/Ralf Held_small.jpg){:.img-width}]({{ site.baseurl }}/assets/Ralf Held.jpg){:target="_blank"}
+[![Ralf Held]({{ site.url }}/assets/Ralf Held_small.jpg){:.img-width}]({{ site.url }}/assets/Ralf Held.jpg){:target="_blank"}

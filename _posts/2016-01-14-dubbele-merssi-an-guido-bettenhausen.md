@@ -8,4 +8,4 @@ Wie wir jetzt erfuhren, hat Guido Bettenhausen -- Inhaber von Bettenhausen Autom
 
 Herzlichen Dank für diese großzügige Unterstützung!
 
-[![Bettenhausen]({{ site.baseurl }}/assets/bettenhausen.jpg){:.img-width}]({{ site.baseurl }}/assets/bettenhausen.jpg){:target="_blank"}
+[![Bettenhausen]({{ site.url }}/assets/bettenhausen.jpg){:.img-width}]({{ site.url }}/assets/bettenhausen.jpg){:target="_blank"}

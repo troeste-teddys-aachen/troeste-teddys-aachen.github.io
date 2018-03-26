@@ -10,4 +10,4 @@ Diese – ohnehin schon stolze – Summe wurde im Anschluss auf den grandiosen B
 
 Für diese tolle Aktion und die großzügige Spende sagen wir von Herzen Danke!
 
-[![Schuetzenbruderschaft]({{ site.baseurl }}/assets/Schuetzenbruderschaft_130110.png){:.img-width}]({{ site.baseurl }}/assets/Schuetzenbruderschaft_130110.pdf){:target="_blank"}
+[![Schuetzenbruderschaft]({{ site.url }}/assets/Schuetzenbruderschaft_130110.png){:.img-width}]({{ site.url }}/assets/Schuetzenbruderschaft_130110.pdf){:target="_blank"}

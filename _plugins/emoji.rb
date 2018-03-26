@@ -30,13 +30,13 @@ module Jekyll
       if config['emoji_dir']
         emoji_dir = config['emoji_dir']
       end
-      if config['baseurl']
-        baseurl = config['baseurl']
+      if config['url']
+        url = config['url']
       end
 
       content.to_str.gsub(/:([a-z0-9\+\-_]+):/) do |match|
         if Emoji.find_by_alias($1) and emoji_dir
-          '<img alt="' + $1 + '" src="' + baseurl + '/' + emoji_dir + "/#{$1}.png" + '" class="emoji" />'
+          '<img alt="' + $1 + '" src="' + url + '/' + emoji_dir + "/#{$1}.png" + '" class="emoji" />'
         else
           match
         end

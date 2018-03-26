@@ -23,4 +23,4 @@ Telefon: 0241/9204635
 
 E-Mail: [michael.siemons@t-online.de](mailto:michael.siemons@t-online.de)
 
-[Impressum]({{ site.baseurl }}/impressum/1/)
+[Impressum]({{ site.url }}/impressum/1/)

@@ -3,11 +3,11 @@ safe: false
 encoding: utf-8
 markdown: kramdown
 permalink: /posts/:title/
-baseurl: http://troeste-teddys-aachen.de
+url: http://troeste-teddys-aachen.de
 timezone: DE
 google_analytics: UA-79651350-1
 emoji_dir: img/emoji
-exclude: [Gemfile, Gemfile.lock, vendor]
+exclude: [Gemfile, Gemfile.lock, _vendor]
 plugins:
   - github-pages
   - emoji

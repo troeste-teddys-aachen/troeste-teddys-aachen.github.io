@@ -1,10 +1,10 @@
     <div id="pages">
       {% for p in (1..10) %}
           {% if page.page_nr == p %}
-            <img alt="Seite {{ p }}" width="22" src="{{ site.baseurl }}/img/seite-{{ p }}-r.gif" />
+            <img alt="Seite {{ p }}" width="22" src="{{ site.url }}/img/seite-{{ p }}-r.gif" />
           {% elsif page.page_count >= p %}
-            <a class="pageLink" href="{{ site.baseurl }}/{{ page.page_name }}/{{ p }}/">
-              <img alt="Seite {{ p }}" width="22" src="{{ site.baseurl }}/img/seite-{{ p }}-n.gif" />
+            <a class="pageLink" href="{{ site.url }}/{{ page.page_name }}/{{ p }}/">
+              <img alt="Seite {{ p }}" width="22" src="{{ site.url }}/img/seite-{{ p }}-n.gif" />
             </a>
           {% else %}
           {% endif %}

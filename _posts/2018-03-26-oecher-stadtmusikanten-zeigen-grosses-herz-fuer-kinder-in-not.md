@@ -11,4 +11,4 @@ Am Karnevalssamstag begeisterte die stimmgewaltige Sangestruppe das närrische P
 
 Liebe Oecher Stadtmusikanten, für diese gelungene Überraschung, Eure großzügige Spende und Euer großes Herz für verletzte, akut erkrankte oder misshandelte Kinder sagen wir: Va Hazze Vöölmoels merssi!
 
-[![spende]({{ site.baseurl }}/assets/Spende-oecher-stadtmusikanten-2018.jpg){:.img-width}]({{ site.baseurl }}/assets/Spende-oecher-stadtmusikanten-2018.jpg){:target="_blank"}
+[![spende]({{ site.url }}/assets/Spende-oecher-stadtmusikanten-2018.jpg){:.img-width}]({{ site.url }}/assets/Spende-oecher-stadtmusikanten-2018.jpg){:target="_blank"}

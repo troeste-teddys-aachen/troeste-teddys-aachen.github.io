@@ -6,34 +6,34 @@ title: Neuer Gästebuch Eintrag
 <h2>Gästebucheintrag schreiben</h3>
 
 <form action="//formspree.io/tammo.ippen@posteo.de" method="POST">
-    
+
     <p>
        <input type="text" name="name" id="author" value="" size="22" tabindex="1"/>
        <label for="author">Name</label>
     </p>
-    
+
     <p>
        <input type="email" name="_replayto" id="email" value="" size="22" tabindex="2" />
        <label for="email">Email <small>(wird nicht veröffentlicht)</small></label>
     </p>
-    
+
     <p>
        <input type="text" name="url" id="url" value="" size="22" tabindex="3" />
        <label for="url">Webseite</label>
     </p>
-    
+
     <p>
        Eintrag<br\>
        <textarea name="comment" id="comment" style="width: 95%;" rows="4" tabindex="4"></textarea>
     </p>
-    
+
     <p>
       <input type="hidden" name="_next" value='http://troeste-teddys-aachen.de/gaeste/' />
       <input type="hidden" name="_subject" value="[Teddy]" />
       <input type="text" name="_gotcha" style="display:none" />
        <input type="submit" tabindex="5" value="Eintrag abschicken" />
        <input type="button" value="Abbrechen" id="abbrechenbtn" tabindex="6"
-            onclick="window.open('{{ site.baseurl }}/gaeste/', '_self')" />
+            onclick="window.open('{{ site.url }}/gaeste/', '_self')" />
     </p>
 </form>
 
