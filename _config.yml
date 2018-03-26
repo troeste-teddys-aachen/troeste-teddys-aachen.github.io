@@ -8,6 +8,6 @@ timezone: DE
 google_analytics: UA-79651350-1
 emoji_dir: img/emoji
 exclude: [Gemfile, Gemfile.lock, vendor]
-gems:
+plugins:
   - github-pages
   - emoji
