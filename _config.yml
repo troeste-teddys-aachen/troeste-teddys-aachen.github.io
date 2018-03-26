@@ -6,7 +6,7 @@ permalink: /posts/:title/
 baseurl: http://troeste-teddys-aachen.de
 timezone: DE
 google_analytics: UA-79651350-1
-emoji_dir: ./img/emoji
+emoji_dir: img/emoji
 exclude: [Gemfile, Gemfile.lock, vendor]
 plugins:
   - github-pages
