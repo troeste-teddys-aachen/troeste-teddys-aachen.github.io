@@ -23,16 +23,21 @@ title: Neuer Gästebuch Eintrag
     </p>
 
     <p>
+       <input type="text" name="title" id="title" value="" size="22" tabindex="4" />
+       <label for="titel">Titel</label>
+    </p>
+
+    <p>
        Eintrag<br\>
-       <textarea name="comment" id="comment" style="width: 95%;" rows="4" tabindex="4"></textarea>
+       <textarea name="comment" id="comment" style="width: 95%;" rows="4" tabindex="5"></textarea>
     </p>
 
     <p>
       <input type="hidden" name="_next" value='http://troeste-teddys-aachen.de/gaeste/' />
       <input type="hidden" name="_subject" value="[Teddy]" />
       <input type="text" name="_gotcha" style="display:none" />
-       <input type="submit" tabindex="5" value="Eintrag abschicken" />
-       <input type="button" value="Abbrechen" id="abbrechenbtn" tabindex="6"
+       <input type="submit" tabindex="6" value="Eintrag abschicken" />
+       <input type="button" value="Abbrechen" id="abbrechenbtn" tabindex="7"
             onclick="window.open('{{ site.url }}/gaeste/', '_self')" />
     </p>
 </form>
