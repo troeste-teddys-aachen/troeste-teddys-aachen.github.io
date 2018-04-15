@@ -4,3 +4,4 @@ img/emoji/
 .sass-cache/
 .bundle/
 _vendor/
+vendor/
