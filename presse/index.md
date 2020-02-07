@@ -7,8 +7,12 @@ page_name: presse
 sitemap:
     priority: 0.8
     changefreq: 'monthly'
-    lastmod: 2016-06-21T06:00:00-00:00
+    lastmod: 2020-02-07T06:00:00-00:00
 ---
+
+[*Super Sonntag 15.12.2019: Ein Teddy und zehntausendfache Hilfe*]({{ site.url }}/presse/2019-12-15)
+
+[*Die Bunte Seite 14.12.2019: „Kollege Teddy“ hilft beim Einsatz*]({{ site.url }}/presse/2019-12-14)
 
 [*Karneval in Aachen 30.12.2015: Unterstützung für „Teddys für Kinder in Not Aachen e.V.“*](http://www.karnevalinaachen.de/aktuelles/news/2015/bettenhausen_teddys.htm){:target="_blank"}
 
