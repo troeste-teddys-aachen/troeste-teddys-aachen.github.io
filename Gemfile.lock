@@ -254,9 +254,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  gemoji
   github-pages
   html-proofer
+  jemoji
   json
 
 BUNDLED WITH
