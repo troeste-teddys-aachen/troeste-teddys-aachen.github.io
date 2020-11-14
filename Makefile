@@ -15,5 +15,4 @@ lint:
 	bundle exec htmlproofer ./_site --disable-external
 
 deploy:
-	cd _site
-	"lftp -e 'mirror --reverse --parallel=4 --delete --verbose ; bye' -u $(FTP_USER),$(FTP_PASSWORD) ftp.strato.de"
+	( cd _site; lftp -e 'mirror --reverse --parallel=4 --delete --verbose ; bye' -u $(FTP_USER),$(FTP_PASSWORD) ftp.strato.de )
