@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hohe Auszeichnung für bärenstarkes Engagement
+title: Bethlehem Gesundheitszentrum Stolberg
 date: 2020-11-11 12:40:00
 category: aktuell
 ---
