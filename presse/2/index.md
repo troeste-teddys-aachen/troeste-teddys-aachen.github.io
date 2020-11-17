@@ -7,8 +7,10 @@ page_name: presse
 sitemap:
     priority: 0.8
     changefreq: 'monthly'
-    lastmod: 2020-02-07T06:00:00-00:00
+    lastmod: 2020-11-16T06:00:00-00:00
 ---
+
+[*Aachener Nachrichten 16.07.2011: Spendenübergabe Ralf II. und Haarscharf*]({{ site.url }}/presse/2011-07-16)
 
 [*Aachener Nachrichten 05.03.2011: Bericht über Prinz Ralf II.*]({{ site.url }}/presse/2011-03-05)
 

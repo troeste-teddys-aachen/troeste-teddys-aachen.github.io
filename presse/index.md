@@ -7,8 +7,10 @@ page_name: presse
 sitemap:
     priority: 0.8
     changefreq: 'monthly'
-    lastmod: 2020-02-07T06:00:00-00:00
+    lastmod: 2020-11-16T06:00:00-00:00
 ---
+
+[*Filmpost Online 16.11.2020: Bärenstarke Spende für 100 Kinder*]({{ site.url }}/presse/2020-11-16)
 
 [*Zeitung am Sonntag 02.02.2020: Michael Siemons mit Verdienstmedaille ausgezeichnet*]({{ site.url }}/presse/2020-02-02)
 
@@ -25,5 +27,3 @@ sitemap:
 [*Die Bunte Seite 14.12.2019: „Kollege Teddy“ hilft beim Einsatz*]({{ site.url }}/presse/2019-12-14)
 
 [*Karneval in Aachen 30.12.2015: Unterstützung für „Teddys für Kinder in Not Aachen e.V.“*](http://www.karnevalinaachen.de/aktuelles/news/2015/bettenhausen_teddys.htm){:target="_blank"}
-
-[*Aachener Nachrichten 16.07.2011: Spendenübergabe Ralf II. und Haarscharf*]({{ site.url }}/presse/2011-07-16)
