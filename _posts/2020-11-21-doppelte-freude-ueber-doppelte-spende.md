@@ -15,4 +15,4 @@ Für diese großartige doppelte Unterstützung gilt den Geschäftsführern und I
 [www.crifbuergel.de/de/standorte/aachen](https://www.crifbuergel.de/de/standorte/aachen){:target="_blank"}
 
 [![Logo DB-INKASSO]({{ site.url }}/assets/Logo-DB-INKASSO.jpg){:.img-width}](https://www.db-inkasso.de/){:target="_blank"}
-[![Logo CRifBruegel]({{ site.url }}/assets/Logo-CRifBruegel.jpg){:.img-width}](https://www.crifbuergel.de/de/standorte/aachen){:target="_blank"}
+[![Logo CRifBruegel]({{ site.url }}/assets/Logo-CRiFBruegel.jpg){:.img-width}](https://www.crifbuergel.de/de/standorte/aachen){:target="_blank"}
