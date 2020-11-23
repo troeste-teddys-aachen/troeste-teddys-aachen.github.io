@@ -2,6 +2,7 @@ title: Teddys für Kinder in Not Aachen e.V.
 safe: false
 encoding: utf-8
 markdown: kramdown
+paginate: 5
 permalink: /posts/:title/
 url: http://troeste-teddys-aachen.de
 timezone: DE
