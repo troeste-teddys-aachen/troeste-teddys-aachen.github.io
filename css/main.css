@@ -99,7 +99,7 @@ img.emoji {
 
 #content-area {
     height: 481px;
-    background: url({{ site.url }}/img/hintergrund_unten.gif);
+    background: url(/img/hintergrund_unten.gif);
 }
 
 #pages {

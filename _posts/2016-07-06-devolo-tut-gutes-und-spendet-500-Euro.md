@@ -11,4 +11,4 @@ Auch 2016 ist die Beteiligung der Mitarbeiter von devolo rege. So wurden bereits
 
 Wir freuen uns sehr, dass auch „Teddys für Kinder in Not Aachen e.V.“ von der devolo AG mit einer Spende von 500 Euro bedacht wurde und bedanken uns herzlich für diese großzügige Unterstützung!
 
-[![devolo]({{ site.url }}/assets/dev_logo_schutzraum_schwarz_0316.jpg){:.img-width}]({{ site.url }}/assets/dev_logo_schutzraum_schwarz_0316.jpg){:target="_blank"}
+[![devolo](/assets/dev_logo_schutzraum_schwarz_0316.jpg){:.img-width}](/assets/dev_logo_schutzraum_schwarz_0316.jpg){:target="_blank"}

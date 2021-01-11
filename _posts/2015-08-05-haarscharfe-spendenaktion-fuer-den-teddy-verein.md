@@ -8,4 +8,4 @@ Ein voller Erfolg war die von Tanja Esser, Inhaberin des Friseur-Salons HaarScha
 
 Herzlichen Dank für diese tolle Idee und eine gelungene „haarige“ Aktion!
 
-[![HaarScharf]({{ site.url }}/assets/110701_klein.jpg){:.img-width}]({{ site.url }}/assets/110701_klein.jpg){:target="_blank"}
+[![HaarScharf](/assets/110701_klein.jpg){:.img-width}](/assets/110701_klein.jpg){:target="_blank"}

@@ -7,5 +7,5 @@ page_name: galerie
 ---
 
 <p style="text-align: center">
-<img alt="Teddy Sanka" height="400px" src="{{ site.url }}/assets/TeddySanka.png" />
+<img alt="Teddy Sanka" height="400px" src="/assets/TeddySanka.png" />
 </p>

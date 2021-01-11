@@ -13,7 +13,7 @@ Um Kindern die Angst zu nehmen, erhalten kleine Patienten, die als Notfall im Be
 
 Quelle: [Facebook](https://www.facebook.com/1911580352460985/posts/2764541287164883/?d=n){:target="_blank"}
 
-[![Bethlehem1]({{ site.url }}/assets/bethlehem1.jpg){:.img-width}]({{ site.url }}/assets/bethlehem1.jpg){:target="_blank"}
-[![Bethlehem2]({{ site.url }}/assets/bethlehem2.jpg){:.img-width}]({{ site.url }}/assets/bethlehem2.jpg){:target="_blank"}
-[![Bethlehem3]({{ site.url }}/assets/bethlehem3.jpg){:.img-width}]({{ site.url }}/assets/bethlehem3.jpg){:target="_blank"}
-[![Bethlehem4]({{ site.url }}/assets/bethlehem4.jpg){:.img-width}]({{ site.url }}/assets/bethlehem4.jpg){:target="_blank"}
+[![Bethlehem1](/assets/bethlehem1.jpg){:.img-width}](/assets/bethlehem1.jpg){:target="_blank"}
+[![Bethlehem2](/assets/bethlehem2.jpg){:.img-width}](/assets/bethlehem2.jpg){:target="_blank"}
+[![Bethlehem3](/assets/bethlehem3.jpg){:.img-width}](/assets/bethlehem3.jpg){:target="_blank"}
+[![Bethlehem4](/assets/bethlehem4.jpg){:.img-width}](/assets/bethlehem4.jpg){:target="_blank"}

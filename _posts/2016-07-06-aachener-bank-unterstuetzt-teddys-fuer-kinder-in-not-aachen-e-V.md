@@ -5,7 +5,7 @@ date: 2016-07-06 12:00:00
 category: aktuell
 ---
 
-[![Aachener Bank]({{ site.url }}/assets/02 Bild Aachener Bank Teddy 160706.jpg){:.img-width}]({{ site.url }}/assets/02 Bild Aachener Bank Teddy 160706.jpg){:target="_blank"}
+[![Aachener Bank](/assets/02 Bild Aachener Bank Teddy 160706.jpg){:.img-width}](/assets/02 Bild Aachener Bank Teddy 160706.jpg){:target="_blank"}
 
 „Gewinnen – Sparen – Helfen“: Dies ist das Motto des Gewinnsparens bei der Aachener Bank. Neben der Chance auf attraktive Preise und dem monatlichen Sparanteil eines jeden Loses tun alle Teilnehmer der Lotterie auch noch etwas für den guten Zweck. Ein Anteil aller Lose kommt nämlich gemeinnützigen Vereinen direkt in der Region zugute. Insgesamt konnte die Aachener Bank dadurch im Jahr 2015 mehr als 130.000 Euro für den guten Zweck zur Verfügung stellen.
 

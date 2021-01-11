@@ -8,4 +8,4 @@ category: aktuell
 
 Liebe Claudia, Dir und Deinem Hofstaat ein bärenstarkes Dankeschön!
 
-[![Jeck mit Hätz]({{ site.url }}/assets/Scheckuebergabe10052012.JPG){:.img-width}]({{ site.url }}/assets/Scheckuebergabe10052012.JPG){:target="_blank"}
+[![Jeck mit Hätz](/assets/Scheckuebergabe10052012.JPG){:.img-width}](/assets/Scheckuebergabe10052012.JPG){:target="_blank"}

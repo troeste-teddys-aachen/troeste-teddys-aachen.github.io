@@ -12,6 +12,6 @@ Dieses Auto wird im Rahmen der sogenannten Mobil-Werbung durch verschiedene Werb
 
 Teddys für Kinder in Not Aachen e.V. sagt HERZLICHEN DANK!
 
-[![Öcher Stadtmobil]({{ site.url }}/assets/oecher_stadtmobil.png){:.img-width}]({{ site.url }}/assets/oecher_stadtmobil.png){:target="_blank"}
+[![Öcher Stadtmobil](/assets/oecher_stadtmobil.png){:.img-width}](/assets/oecher_stadtmobil.png){:target="_blank"}
 
-Foto (von links): Uwe Poster (Socius Fortis, Agentur für Sozialsponsoring), Petra Siemons („Teddys für Kinder in Not Aachen e.V.“),Rolf Schupp (Stadt Aachen) 
+Foto (von links): Uwe Poster (Socius Fortis, Agentur für Sozialsponsoring), Petra Siemons („Teddys für Kinder in Not Aachen e.V.“),Rolf Schupp (Stadt Aachen)

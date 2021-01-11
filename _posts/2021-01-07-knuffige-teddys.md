@@ -9,5 +9,5 @@ Der Verein „Teddys für Kinder in Not Aachen e.V.“ hat unserer Zentralen Not
 
 *Quelle:* [Marienhospital: KNUFFIGE-TEDDYS](https://www.marienhospital.de/de/stiftung/aktuelles/%C3%BCbersicht/detail/knuffige-teddys){:target="_blank"}
 
-[![Knuffige Teddies]({{ site.url }}/assets/knuffige-teddies-small.jpg){:.img-width}]({{ site.url }}/assets/knuffige-teddies.jpg){:target="_blank"}
+[![Knuffige Teddies](/assets/knuffige-teddies-small.jpg){:.img-width}](/assets/knuffige-teddies.jpg){:target="_blank"}
 <small>(v.l.n.r.) Michael Siemons (Verein „Teddys für Kinder in Not Aachen e.V.“), Thomas Reinders und Dr. med. Simone Gehrke</small>

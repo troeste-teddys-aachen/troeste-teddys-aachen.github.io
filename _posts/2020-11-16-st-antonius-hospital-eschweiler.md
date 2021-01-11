@@ -19,4 +19,4 @@ Im Bild (v.l.n.r.): Prof. Dr. Guido Michels, Schwester Sylvia, Pfleger Dirk, Dan
 
 Quelle: [Facebook](https://www.facebook.com/169991869752613/posts/3528190457266054/?d=n){:target="_blank"}
 
-[![St.-Antonius-Hospital]({{ site.url }}/assets/st-antonius-hospital.jpg){:.img-width}]({{ site.url }}/assets/st-antonius-hospital.jpg){:target="_blank"}
+[![St.-Antonius-Hospital](/assets/st-antonius-hospital.jpg){:.img-width}](/assets/st-antonius-hospital.jpg){:target="_blank"}

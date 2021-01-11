@@ -12,5 +12,5 @@ sitemap:
 
 ## Unser neuer Tröste-Teddy
 <p style="text-align: center">
-  <img alt="Teddy neu" height="380px" src="{{ site.url }}/assets/TeddyNeu.png" />
+  <img alt="Teddy neu" height="380px" src="/assets/TeddyNeu.png" />
 </p>
