@@ -7,7 +7,7 @@ setup:
 	bundle install
 
 serve:
-	bundle exec jekyll serve -H 0.0.0.0
+	bundle exec jekyll serve -H 127.0.0.1
 
 build:
 	rm -rf _site
