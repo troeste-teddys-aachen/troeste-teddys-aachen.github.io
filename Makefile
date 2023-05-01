@@ -19,7 +19,7 @@ build:
 
 lint:
 	bundle exec jekyll doctor
-	bundle exec htmlproofer ./_site --disable-external
+	bundle exec htmlproofer ./_site --disable-external=true --enforce-https=false
 
 deploy:
 	( cd _site; lftp -e 'mirror --reverse --parallel=4 --delete --verbose ; bye' -u $(FTP_USER),$(FTP_PASSWORD) ftp.strato.de )
