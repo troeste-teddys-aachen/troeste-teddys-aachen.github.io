@@ -6,6 +6,9 @@ setup:
 	# sudo gem install bundler
 	bundle install
 
+update:
+	bundle update
+
 serve:
 	bundle exec jekyll serve -H 127.0.0.1
 
