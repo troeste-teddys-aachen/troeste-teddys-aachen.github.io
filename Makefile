@@ -17,9 +17,12 @@ build:
 	bundle exec jekyll build --destination _site --trace
 	bundle exec jekyll build --destination _site --trace
 
+run: build
+	python -m http.server --bind 127.0.0.1 --directory _site 8080
+
 lint:
 	bundle exec jekyll doctor
-	bundle exec htmlproofer ./_site --disable-external=true --enforce-https=false
+	bundle exec htmlproofer ./_site --disable-external --no-enforce-https
 
 deploy:
 	( cd _site; lftp -e 'mirror --reverse --parallel=4 --delete --verbose ; bye' -u $(FTP_USER),$(FTP_PASSWORD) ftp.strato.de )
