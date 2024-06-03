@@ -13,7 +13,7 @@ Wir freuen uns sehr, dass „Teddys für Kinder in Not Aachen e.V.“ − auf Vo
 
 Für diese tolle Unterstützung gilt dem Verein Allianz für die Jugend e.V. und Ihnen, lieber Herr Stollenwerk, von Herzen unser doppelt großes Dankeschön!
 
-[Allianz für die Jugend e.V. Nordwest (allianz-fuer-die-jugend.de)](https://www.allianz-fuer-die-jugend.de/)
+[Allianz für die Jugend e.V. Nordwest (allianz-fuer-die-jugend.de)](https://www.allianz-fuer-die-jugend.de/){:target="\_blank"}
 
 [![Allianz für die Jugend e.V. Herr Stollenwerk überreicht Scheck](/assets/Spendenuebergabe-Allianz-Stollenwerk-small.jpg){:.img-width}](/assets/Spendenuebergabe-Allianz-Stollenwerk.jpg){:target="\_blank"}
 
