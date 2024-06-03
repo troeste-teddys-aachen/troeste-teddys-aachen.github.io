@@ -15,4 +15,4 @@ Für diese tolle Unterstützung gilt dem Verein Allianz für die Jugend e.V. und
 
 [www.allianzjugend-ev.de](https://www.allianzjugend-ev.de)
 
-[![Allianz für die Jugend e.V. Herr Stollenwerk überreicht Scheck](/assets/Spendenübergabe Allianz Stollenwerk-small.jpg){:.img-width}](/assets/Spendenübergabe Allianz Stollenwerk.jpg){:target="\_blank"}
+[![Allianz für die Jugend e.V. Herr Stollenwerk überreicht Scheck](/assets/Spendenuebergabe-Allianz-Stollenwerk-small.jpg){:.img-width}](/assets/Spendenuebergabe-Allianz-Stollenwerk.jpg){:target="\_blank"}
