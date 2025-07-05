@@ -2,7 +2,7 @@ docker:
 	docker run -it --rm --entrypoint sh -v $(PWD):/app -p 4000:4000 ruby:2-alpine
 
 setup:
-	apk --no-cache add build-base lftp
+	# apk --no-cache add build-base lftp
 	# sudo gem install bundler
 	bundle install
 
